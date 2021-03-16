@@ -9,7 +9,7 @@
   <Identity
     Name="356f2b71-a8a7-45dc-96c4-c5fe36e55a27"
     Publisher="CN=sylen"
-    Version="1.0.17.0" />
+    Version="1.0.21.0" />
 
   <mp:PhoneIdentity PhoneProductId="356f2b71-a8a7-45dc-96c4-c5fe36e55a27" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
